@@ -1,3 +1,4 @@
+'''判断两个字符串是否包含相同字符'''
 class Permutations(object):
 
     def is_permutation(self, str1, str2):
